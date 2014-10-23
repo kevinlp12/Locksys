@@ -1,5 +1,5 @@
 1,6c1
-< //www.DFRobot.com
+< //YWROBOT
 < //last updated on 26/11/2010
 < //Tim Starling Fix the reset bug (Thanks Tim)
 < //wiki doc http://www.dfrobot.com/wiki/index.php?title=I2C/TWI_LCD1602_Module_(SKU:_DFR0063)
